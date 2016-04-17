@@ -1,0 +1,16 @@
+{
+  "name": "mocha-dynamically-generated-tests",
+  "version": "1.0.0",
+  "description": "Small example showing how to dynamically genereate tests in mocha",
+  "main": "dynamic.spec.js",
+  "scripts": {
+    "test": "mocha dynamic.spec.js"
+  },
+  "author": "martinerko",
+  "license": "MIT",
+  "devDependencies": {
+    "assert": "^1.3.0",
+    "mocha": "^2.4.5",
+    "request-promise": "^3.0.0"
+  }
+}
